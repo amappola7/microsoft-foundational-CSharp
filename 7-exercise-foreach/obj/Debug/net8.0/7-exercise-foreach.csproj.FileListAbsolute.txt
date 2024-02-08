@@ -1,0 +1,14 @@
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\bin\Debug\net8.0\7-exercise-foreach.exe
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\bin\Debug\net8.0\7-exercise-foreach.deps.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\bin\Debug\net8.0\7-exercise-foreach.runtimeconfig.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\bin\Debug\net8.0\7-exercise-foreach.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\bin\Debug\net8.0\7-exercise-foreach.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\obj\Debug\net8.0\7-exercise-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\obj\Debug\net8.0\7-exercise-foreach.AssemblyInfoInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\obj\Debug\net8.0\7-exercise-foreach.AssemblyInfo.cs
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\obj\Debug\net8.0\7-exercise-foreach.csproj.CoreCompileInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\obj\Debug\net8.0\7-exercise-foreach.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\obj\Debug\net8.0\refint\7-exercise-foreach.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\obj\Debug\net8.0\7-exercise-foreach.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\obj\Debug\net8.0\7-exercise-foreach.genruntimeconfig.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\7-exercise-foreach\obj\Debug\net8.0\ref\7-exercise-foreach.dll
