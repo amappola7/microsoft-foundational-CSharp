@@ -1,0 +1,14 @@
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\bin\Debug\net8.0\4-exercise-if-else.exe
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\bin\Debug\net8.0\4-exercise-if-else.deps.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\bin\Debug\net8.0\4-exercise-if-else.runtimeconfig.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\bin\Debug\net8.0\4-exercise-if-else.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\bin\Debug\net8.0\4-exercise-if-else.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\obj\Debug\net8.0\4-exercise-if-else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\obj\Debug\net8.0\4-exercise-if-else.AssemblyInfoInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\obj\Debug\net8.0\4-exercise-if-else.AssemblyInfo.cs
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\obj\Debug\net8.0\4-exercise-if-else.csproj.CoreCompileInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\obj\Debug\net8.0\4-exercise-if-else.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\obj\Debug\net8.0\refint\4-exercise-if-else.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\obj\Debug\net8.0\4-exercise-if-else.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\obj\Debug\net8.0\4-exercise-if-else.genruntimeconfig.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\4-exercise-if-else\obj\Debug\net8.0\ref\4-exercise-if-else.dll
