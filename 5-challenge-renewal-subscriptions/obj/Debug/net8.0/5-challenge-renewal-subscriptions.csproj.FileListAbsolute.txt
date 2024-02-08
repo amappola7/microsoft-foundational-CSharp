@@ -1,0 +1,14 @@
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\bin\Debug\net8.0\5-challenge-renewal-subscriptions.exe
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\bin\Debug\net8.0\5-challenge-renewal-subscriptions.deps.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\bin\Debug\net8.0\5-challenge-renewal-subscriptions.runtimeconfig.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\bin\Debug\net8.0\5-challenge-renewal-subscriptions.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\bin\Debug\net8.0\5-challenge-renewal-subscriptions.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\obj\Debug\net8.0\5-challenge-renewal-subscriptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\obj\Debug\net8.0\5-challenge-renewal-subscriptions.AssemblyInfoInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\obj\Debug\net8.0\5-challenge-renewal-subscriptions.AssemblyInfo.cs
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\obj\Debug\net8.0\5-challenge-renewal-subscriptions.csproj.CoreCompileInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\obj\Debug\net8.0\5-challenge-renewal-subscriptions.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\obj\Debug\net8.0\refint\5-challenge-renewal-subscriptions.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\obj\Debug\net8.0\5-challenge-renewal-subscriptions.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\obj\Debug\net8.0\5-challenge-renewal-subscriptions.genruntimeconfig.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\5-challenge-renewal-subscriptions\obj\Debug\net8.0\ref\5-challenge-renewal-subscriptions.dll
