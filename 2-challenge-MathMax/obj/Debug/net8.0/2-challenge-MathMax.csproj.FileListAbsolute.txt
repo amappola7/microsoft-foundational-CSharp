@@ -1,0 +1,14 @@
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\bin\Debug\net8.0\2-challenge-MathMax.exe
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\bin\Debug\net8.0\2-challenge-MathMax.deps.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\bin\Debug\net8.0\2-challenge-MathMax.runtimeconfig.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\bin\Debug\net8.0\2-challenge-MathMax.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\bin\Debug\net8.0\2-challenge-MathMax.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\obj\Debug\net8.0\2-challenge-MathMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\obj\Debug\net8.0\2-challenge-MathMax.AssemblyInfoInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\obj\Debug\net8.0\2-challenge-MathMax.AssemblyInfo.cs
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\obj\Debug\net8.0\2-challenge-MathMax.csproj.CoreCompileInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\obj\Debug\net8.0\2-challenge-MathMax.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\obj\Debug\net8.0\refint\2-challenge-MathMax.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\obj\Debug\net8.0\2-challenge-MathMax.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\obj\Debug\net8.0\2-challenge-MathMax.genruntimeconfig.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\2-challenge-MathMax\obj\Debug\net8.0\ref\2-challenge-MathMax.dll
