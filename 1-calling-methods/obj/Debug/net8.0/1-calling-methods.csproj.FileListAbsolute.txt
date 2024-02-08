@@ -1,0 +1,14 @@
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\bin\Debug\net8.0\1-calling-methods.exe
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\bin\Debug\net8.0\1-calling-methods.deps.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\bin\Debug\net8.0\1-calling-methods.runtimeconfig.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\bin\Debug\net8.0\1-calling-methods.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\bin\Debug\net8.0\1-calling-methods.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\obj\Debug\net8.0\1-calling-methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\obj\Debug\net8.0\1-calling-methods.AssemblyInfoInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\obj\Debug\net8.0\1-calling-methods.AssemblyInfo.cs
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\obj\Debug\net8.0\1-calling-methods.csproj.CoreCompileInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\obj\Debug\net8.0\1-calling-methods.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\obj\Debug\net8.0\refint\1-calling-methods.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\obj\Debug\net8.0\1-calling-methods.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\obj\Debug\net8.0\1-calling-methods.genruntimeconfig.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\1-calling-methods\1-calling-methods\obj\Debug\net8.0\ref\1-calling-methods.dll
