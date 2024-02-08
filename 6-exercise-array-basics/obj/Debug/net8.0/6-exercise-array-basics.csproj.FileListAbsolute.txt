@@ -1,0 +1,14 @@
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\obj\Debug\net8.0\6-exercise-array-basics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\obj\Debug\net8.0\6-exercise-array-basics.AssemblyInfoInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\obj\Debug\net8.0\6-exercise-array-basics.AssemblyInfo.cs
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\obj\Debug\net8.0\6-exercise-array-basics.csproj.CoreCompileInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\bin\Debug\net8.0\6-exercise-array-basics.exe
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\bin\Debug\net8.0\6-exercise-array-basics.deps.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\bin\Debug\net8.0\6-exercise-array-basics.runtimeconfig.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\bin\Debug\net8.0\6-exercise-array-basics.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\bin\Debug\net8.0\6-exercise-array-basics.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\obj\Debug\net8.0\6-exercise-array-basics.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\obj\Debug\net8.0\refint\6-exercise-array-basics.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\obj\Debug\net8.0\6-exercise-array-basics.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\obj\Debug\net8.0\6-exercise-array-basics.genruntimeconfig.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\6-exercise-array-basics\obj\Debug\net8.0\ref\6-exercise-array-basics.dll
