@@ -1,0 +1,14 @@
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\bin\Debug\net8.0\my-first-CSharp-project.exe
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\bin\Debug\net8.0\my-first-CSharp-project.deps.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\bin\Debug\net8.0\my-first-CSharp-project.runtimeconfig.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\bin\Debug\net8.0\my-first-CSharp-project.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\bin\Debug\net8.0\my-first-CSharp-project.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\obj\Debug\net8.0\my-first-CSharp-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\obj\Debug\net8.0\my-first-CSharp-project.AssemblyInfoInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\obj\Debug\net8.0\my-first-CSharp-project.AssemblyInfo.cs
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\obj\Debug\net8.0\my-first-CSharp-project.csproj.CoreCompileInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\obj\Debug\net8.0\my-first-CSharp-project.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\obj\Debug\net8.0\refint\my-first-CSharp-project.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\obj\Debug\net8.0\my-first-CSharp-project.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\obj\Debug\net8.0\my-first-CSharp-project.genruntimeconfig.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\my-first-CSharp-project\obj\Debug\net8.0\ref\my-first-CSharp-project.dll
