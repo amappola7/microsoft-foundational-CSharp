@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("1-calling-methods")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d8fe8341ae1741dedb1a304271cb63d360f8546f")]
 [assembly: System.Reflection.AssemblyProductAttribute("1-calling-methods")]
 [assembly: System.Reflection.AssemblyTitleAttribute("1-calling-methods")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
