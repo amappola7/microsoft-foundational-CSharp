@@ -1,4 +1,4 @@
-﻿// Construct a nested loop structure for student grade calculations
+﻿// Exercise - Construct a nested loop structure for student grade calculations
 
 string[] studentsList = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
 
