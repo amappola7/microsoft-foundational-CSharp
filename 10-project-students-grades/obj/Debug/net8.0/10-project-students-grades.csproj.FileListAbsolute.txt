@@ -1,0 +1,15 @@
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\obj\Debug\net8.0\10-project-students-grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\obj\Debug\net8.0\10-project-students-grades.AssemblyInfoInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\obj\Debug\net8.0\10-project-students-grades.AssemblyInfo.cs
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\obj\Debug\net8.0\10-project-students-grades.csproj.CoreCompileInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\obj\Debug\net8.0\10-project-students-grades.sourcelink.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\bin\Debug\net8.0\10-project-students-grades.exe
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\bin\Debug\net8.0\10-project-students-grades.deps.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\bin\Debug\net8.0\10-project-students-grades.runtimeconfig.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\bin\Debug\net8.0\10-project-students-grades.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\bin\Debug\net8.0\10-project-students-grades.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\obj\Debug\net8.0\10-project-students-grades.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\obj\Debug\net8.0\refint\10-project-students-grades.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\obj\Debug\net8.0\10-project-students-grades.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\obj\Debug\net8.0\10-project-students-grades.genruntimeconfig.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\10-project-students-grades\obj\Debug\net8.0\ref\10-project-students-grades.dll
