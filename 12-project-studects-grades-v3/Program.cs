@@ -16,7 +16,8 @@ int[] chrisScores = new int[] { 84, 86, 88, 90, 92, 94, 96, 98 };
 int[] ericScores = new int[] { 80, 90, 100, 80, 90, 100, 80, 90 };
 int[] gregorScores = new int[] { 91, 91, 91, 91, 91, 91, 91 };
 
-Console.WriteLine("Student\t\tExam Score\tOverall Grade\tExtra Credit\n----------------------------");
+Console.Clear();
+Console.WriteLine("Student\t\tExam Score\tOverall Grade\tExtra Credit\n");
 
 foreach (string student in studentsList)
 {
@@ -76,8 +77,10 @@ foreach (string student in studentsList)
     }
   }
 
+  decimal studentExtraCreditPoints = (studentExtraCreditScore / 10) / examAssignments;
   studentExtraCreditScore /= (studentScores.Length - 5);
-  studentFinalScore /= examAssignments;
+  // studentFinalScore /= examAssignments;
+  studentFinalScore = studentExamScore + studentExtraCreditPoints;
 
   // Defining the letter grade according to the final score of the current student
   if (studentFinalScore >= 97)
@@ -120,7 +123,7 @@ foreach (string student in studentsList)
     currentStudentLetterGrade = "F";
 
   // Printing report of the current student
-  Console.WriteLine($"{currentStudent}\t\t{studentExamScore}\t{studentFinalScore}\t{currentStudentLetterGrade}\t{studentExtraCreditScore} ({studentFinalScore - studentExamScore} pts.)");
+  Console.WriteLine($"{currentStudent}\t\t{studentExamScore}\t{studentFinalScore}\t{currentStudentLetterGrade}\t{studentExtraCreditScore} ({studentExtraCreditPoints} pts.)");
 }
 
 Console.WriteLine("Press the Enter key to continue");
