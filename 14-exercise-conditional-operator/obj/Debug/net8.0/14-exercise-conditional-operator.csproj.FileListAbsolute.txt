@@ -1,0 +1,15 @@
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\obj\Debug\net8.0\14-exercise-conditional-operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\obj\Debug\net8.0\14-exercise-conditional-operator.AssemblyInfoInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\obj\Debug\net8.0\14-exercise-conditional-operator.AssemblyInfo.cs
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\obj\Debug\net8.0\14-exercise-conditional-operator.csproj.CoreCompileInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\obj\Debug\net8.0\14-exercise-conditional-operator.sourcelink.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\bin\Debug\net8.0\14-exercise-conditional-operator.exe
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\bin\Debug\net8.0\14-exercise-conditional-operator.deps.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\bin\Debug\net8.0\14-exercise-conditional-operator.runtimeconfig.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\bin\Debug\net8.0\14-exercise-conditional-operator.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\bin\Debug\net8.0\14-exercise-conditional-operator.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\obj\Debug\net8.0\14-exercise-conditional-operator.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\obj\Debug\net8.0\refint\14-exercise-conditional-operator.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\obj\Debug\net8.0\14-exercise-conditional-operator.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\obj\Debug\net8.0\14-exercise-conditional-operator.genruntimeconfig.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\14-exercise-conditional-operator\obj\Debug\net8.0\ref\14-exercise-conditional-operator.dll
