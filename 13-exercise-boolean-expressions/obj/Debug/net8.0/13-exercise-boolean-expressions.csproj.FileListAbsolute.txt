@@ -1,0 +1,15 @@
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\bin\Debug\net8.0\13-exercise-boolean-expressions.exe
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\bin\Debug\net8.0\13-exercise-boolean-expressions.deps.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\bin\Debug\net8.0\13-exercise-boolean-expressions.runtimeconfig.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\bin\Debug\net8.0\13-exercise-boolean-expressions.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\bin\Debug\net8.0\13-exercise-boolean-expressions.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\obj\Debug\net8.0\13-exercise-boolean-expressions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\obj\Debug\net8.0\13-exercise-boolean-expressions.AssemblyInfoInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\obj\Debug\net8.0\13-exercise-boolean-expressions.AssemblyInfo.cs
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\obj\Debug\net8.0\13-exercise-boolean-expressions.csproj.CoreCompileInputs.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\obj\Debug\net8.0\13-exercise-boolean-expressions.sourcelink.json
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\obj\Debug\net8.0\13-exercise-boolean-expressions.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\obj\Debug\net8.0\refint\13-exercise-boolean-expressions.dll
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\obj\Debug\net8.0\13-exercise-boolean-expressions.pdb
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\obj\Debug\net8.0\13-exercise-boolean-expressions.genruntimeconfig.cache
+C:\Users\APorras2\OneDrive - Schlumberger\Documents\Amappola_Learning\CSharp_DotNet\foundationalCSharp\13-exercise-boolean-expressions\obj\Debug\net8.0\ref\13-exercise-boolean-expressions.dll
